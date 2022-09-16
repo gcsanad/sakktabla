@@ -1,0 +1,7 @@
+td{
+    border-bottom: 2cm solid black;
+}
+td:nth-child(5n+0){
+    border-bottom: 4cm solid red;
+}
+
