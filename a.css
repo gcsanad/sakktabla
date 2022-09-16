@@ -19,5 +19,7 @@ img{
   margin-right: auto;
 }
 table{
-    border:
+    border:100px double black;
+    margin: auto;
+    margin-top: 5%;
 }
